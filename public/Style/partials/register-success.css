@@ -1,0 +1,22 @@
+body {
+    background-image: url("/images/success-background.svg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: 700 2.4rem Archivo;
+
+}
+
+.container{
+    display: flex;
+    width: 80vw;
+    height: 30vh;
+    margin-top: 30vh;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+img {
+    margin-left: 2%;
+}
