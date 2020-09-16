@@ -2,7 +2,7 @@
 
 <h1 align="center"> Proffy | Sua plataforma de estudos online </h1> 
 
-<p align= "center"> :mortar_board: Plataforma de aulas online, com a missão de conectar alunos com professos das mais diversas àreas do conhecimento. </p>
+<p align= "center"> :mortar_board: Plataforma de aulas online, com a missão de conectar alunos com professos das mais diversas áreas do conhecimento. </p>
 
 <p align="center">
   <img src="./screenshots/proffy.jpg" width="700" >
@@ -37,3 +37,23 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - SQLite 
 
 --- 
+
+## ⌨ Como executar o projeto
+
+```bash
+# Clonar o repositório
+git clone  https://github.com/joaquimfirmo/Proffy-NLW-Discovery
+
+# Entrar no diretório
+cd Proffy-NLW-Discovery
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+```
+
+Depois isso, acesse  seu navegador em `http://localhost:5500/`
+
+---
