@@ -21,7 +21,7 @@
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
 
-A proposta do projeto é uma plataforma de estudos que possa conectar quem deseja aprender, com quer ensinar. É possível se cadastrar como professor, e assim leciona, ou ser um aluno para aprender aquela matéria que você sempre quis! 
+A proposta do projeto é uma plataforma de estudos que possa conectar quem deseja aprender, com quem quer ensinar. É possível se cadastrar como professor, e assim leciona, ou ser um aluno para aprender aquela matéria que você sempre quis! 
 
 --- 
 
