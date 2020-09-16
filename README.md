@@ -57,3 +57,4 @@ npm run dev
 Depois isso, acesse  seu navegador em `http://localhost:5500/`
 
 ---
+Desenvolvido por :boy: - :computer: Joaquim Firmo 
