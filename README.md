@@ -7,3 +7,12 @@
 <p align="center">
   <img src="./screenshots/proffy.jpg" width="700" >
 </p>
+
+## 📋 Índice
+
+- [Sobre](#-Sobre)
+- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
+- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Screenshots](#-Preview)
+
+---
